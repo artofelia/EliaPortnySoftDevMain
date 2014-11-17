@@ -5,15 +5,20 @@ Period 5
 
 Main Projects
 
-Blog_Engine
+Blog_Engine - 
 Junhao Dong, Elia Portnoy, Jenny Baran, Eric Wong
 Stores a single blog (using sqlite3) where people can create and comment on posts.
 https://github.com/junhaodong/blog-engine.git
 
-Query-Search
+Query-Search - 
 Venessa Y, Elia Portnoy, Jessica Ng, Andrew Lee
 make a website (flask) CSS - answering machine who [A-Z][/w+] when [/w{3}][2 dig],[4 dig] 
 https://github.com/VanessaY/QuerySearch.git
+
+EventWeb - 
+Elia Portnoy, Abrar Ahmed
+Social Network that finds events for you to do based on your and your friends interests.
+https://github.com/artofelia/EventWeb.git
 
 Mini Projects
 
