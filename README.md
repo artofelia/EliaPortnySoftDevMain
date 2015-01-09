@@ -5,6 +5,10 @@ Period 5
 
 Main Projects
 
+Final Project
+Elia Portnoy, Jerry Dai, Edison Shi
+Online multiplayer 3D graphics chat room.
+
 Blog_Engine - 
 Junhao Dong, Elia Portnoy, Jenny Baran, Eric Wong
 Stores a single blog (using sqlite3) where people can create and comment on posts.
