@@ -5,9 +5,9 @@ Period 5
 
 Main Projects
 
-Final Project
-Elia Portnoy, Jerry Dai, Edison Shi
-Online multiplayer 3D graphics chat room.
+Final Project: 
+Elia Portnoy, Jerry Dai, Edison Shi - 
+Online multiplayer 3D graphics chat room. https://github.com/artofelia/EliaEdisonJerry
 
 Blog_Engine - 
 Junhao Dong, Elia Portnoy, Jenny Baran, Eric Wong
